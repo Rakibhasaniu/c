@@ -2,6 +2,9 @@
     "files.associations": {
         "LOOP_2.C": "cpp",
         ".env*": "dotenv",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "DIGIT-PATTER-OPPOSITE.C": "cpp"
     }
 }
