@@ -5,6 +5,7 @@
         "stdlib.h": "c",
         "ostream": "cpp",
         "iostream": "cpp",
-        "DIGIT-PATTER-OPPOSITE.C": "cpp"
+        "DIGIT-PATTER-OPPOSITE.C": "cpp",
+        "functional": "c"
     }
 }
